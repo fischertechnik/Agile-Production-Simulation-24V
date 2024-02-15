@@ -2,7 +2,7 @@
 
 ## Official documentation under link:
 
-Link-Placeholder
+Link-Placeholder // TODO
 
 ## Content
 
@@ -26,6 +26,6 @@ A NodeRed container is running on the Raspberry PI of the APS. To view the NodeR
 
 ### SPS
 
-TIA is required to access the PLC programs.
+TIAv18 is required to access the PLC programs.
 
-If TIA v18 is installed, the project files can be loaded and edited.
+As soon as TIAv18 is installed, the project files can be loaded and edited.
