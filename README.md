@@ -1,13 +1,8 @@
 # Agile-Production-Simulation-24V
 
-## Official documentation under link:
-
-Link-Placeholder // TODO
-
 ## Raspberry PI Image
 
-The Raspberry PI image can be found under the following link:
-[Image-Link-Placeholder](#)
+The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v100
 
 ### Installation instructions
 
