@@ -1,6 +1,6 @@
 # Agile-Production-Simulation-24V
 
-https://www.fischertechnik.de/de-de/produkte/industrie-und-hochschulen/simulationsmodelle/569289-agile-production-simulation-24v
+https://www.fischertechnik.de/en/products/industry-and-universities/training-models/569289-agile-production-simulation-24v
 
 ## Raspberry PI Image
 
