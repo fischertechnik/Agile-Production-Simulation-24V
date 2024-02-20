@@ -1,5 +1,7 @@
 # Agile-Production-Simulation-24V
 
+https://www.fischertechnik.de/de-de/produkte/industrie-und-hochschulen/simulationsmodelle/569289-agile-production-simulation-24v
+
 ## Raspberry PI Image
 
 The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v100
@@ -73,7 +75,7 @@ The `TXT4.0 programs` folder contains the project files of the 4 different TXTs 
 
 The `Node-RED` folder contains the flows of Node-RED as a Json file
 
-### TXT4.0
+### TXT 4.0 Controller
 
 ROBO Pro Coding is required to access the code of the TXTs. This can be found in the Microsoft Store via the search.
 
@@ -83,7 +85,7 @@ Once the program has started, the project files can be imported and changed.
 
 A Node-RED container is running on the Raspberry PI of the APS. To view the Node-RED flows of the APS, you can connect to the Node-RED via `http://192.168.0.100:1880/`. This requires a LAN or WLAN connection to the APS.
 
-### SPS
+### PLC
 
 TIAv18 is required to access the PLC programs.
 
