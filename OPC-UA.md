@@ -4,13 +4,18 @@
 ![Connect](doc/Connect.PNG "Connect")
 
 ## Signals Delivery and Pickup Station (DPS)
-![OPCUA_DPS](doc/OPCUA_DPS.PNG "OPCUA_DPS")
+![OPCUA_DPS1](doc/OPCUA_DPS1.PNG "OPCUA_DPS1")
+![OPCUA_DPS2](doc/OPCUA_DPS2.PNG "OPCUA_DPS2")
 
-## Signals Quality Control with AI (AI)
-![OPCUA_AI](doc/OPCUA_AI.PNG "OPCUA_AI")
+## Signals Quality Control with AI (AIQS)
+![OPCUA_AIQS1](doc/OPCUA_AIQS1.PNG "OPCUA_AIQS1")
+![OPCUA_AIQS2](doc/OPCUA_AIQS2.PNG "OPCUA_AIQS2")
 
 ## Signals High-Bay Warehouse (HBW)
-![OPCUA_HBW](doc/OPCUA_HBW.PNG "OPCUA_HBW")
+![OPCUA_HBW1](doc/OPCUA_HBW1.PNG "OPCUA_HBW1")
+![OPCUA_HBW2](doc/OPCUA_HBW2.PNG "OPCUA_HBW2")
+![OPCUA_HBW3](doc/OPCUA_HBW3.PNG "OPCUA_HBW3")
+![OPCUA_HBW4](doc/OPCUA_HBW4.PNG "OPCUA_HBW4")
 
 ## Signals Drilling Station (DRILL)
 ![OPCUA_DRILL](doc/OPCUA_DRILL.PNG "OPCUA_DRILL")
