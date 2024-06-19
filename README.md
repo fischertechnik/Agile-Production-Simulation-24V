@@ -11,12 +11,6 @@
 - [Update Blog](https://www.fischertechnik.de/en/industry-and-universities/technical-documents/simulate/agile-production-simulation/update-blog)
 - [Troubleshooting (DE)](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/industrie-und-hochschulen/technische-dokumente/agile-production-simulation/de/fehlersuche_aps_de.pdf)
 
-## Raspberry PI Image
-
-The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v100
-
-see [Installation Instructions](RPI_Image.md)
-
 ## Content
 
 The PLC project archives of the individual modules are in the `PLC-programs` folder.
@@ -27,15 +21,21 @@ The `TXT4.0 programs` folder contains the project files of the 4 different TXTs 
 
 The `Node-RED` folder contains the flows of Node-RED as a Json file
 
+### Raspberry PI Image / Central Control Unit (CCU)
+
+The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v100
+
+see [Installation Instructions](RPI_Image.md)
+
 ### TXT 4.0 Controller
 
-ROBO Pro Coding is required to access the code of the TXTs. This can be found in the Microsoft Store via the search.
+[ROBO Pro Coding](https://www.fischertechnik.de/de-de/industrie-und-hochschulen/apps) is required to access the code of the [TXT 4.0 Controllers](https://www.fischertechnik.de/txt40controller). This can be found in the Microsoft Store via the search.
 
 Once the program has started, the project files can be imported and changed.
 
 ### Node-RED
 
-A Node-RED container is running on the Raspberry PI of the APS. To view the Node-RED flows of the APS, you can connect to the Node-RED via `http://192.168.0.100:1880/`. This requires a LAN or WLAN connection to the APS.
+A [Node-RED](https://nodered.org/) container is running on the Raspberry PI of the APS. To view the Node-RED flows of the APS, you can connect to the Node-RED via `http://192.168.0.100:1880/`. This requires a LAN or WLAN connection to the APS.
 
 ### PLC
 
