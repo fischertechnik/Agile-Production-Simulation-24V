@@ -28,6 +28,8 @@ The Raspberry PI image can be found under the following link: https://short.omm.
 
 see [Installation Instructions](RPI_Image.md)
 
+For experienced users, SSH is enabled on the image with username `ff22` and password `ff22+`
+
 ### TXT 4.0 Controller
 
 [ROBO Pro Coding](https://www.fischertechnik.de/de-de/industrie-und-hochschulen/apps) is required to access the code of the [TXT 4.0 Controllers](https://www.fischertechnik.de/txt40controller). This can be found in the Microsoft Store via the search.
