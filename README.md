@@ -24,7 +24,7 @@ The `Node-RED` folder contains the flows of Node-RED as a Json file
 
 ### Raspberry PI Image / Central Control Unit (CCU)
 
-The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v121
+The Raspberry PI image can be found under the following link: https://short.omm.cloud/rpi-v130
 
 see [Installation Instructions](RPI_Image.md)
 
