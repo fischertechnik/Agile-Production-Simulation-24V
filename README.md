@@ -10,6 +10,8 @@
 - [Calibration](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/industrie-und-hochschulen/technische-dokumente/agile-production-simulation/en/calibration-en.zip)
 - [Digital Learning Platform](https://www.fischertechnik-digital-learning-platform.de/)
 - [Update Blog](https://www.fischertechnik.de/en/industry-and-universities/technical-documents/simulate/agile-production-simulation/update-blog)
+- [MQTT-Documentation](https://github.com/fischertechnik/Agile-Production-Simulation-24V-Dev/tree/release/docs#readme)
+- [CCU-Sources](https://github.com/fischertechnik/Agile-Production-Simulation-24V-Dev)
 - [Troubleshooting (DE)](https://www.fischertechnik.de/-/media/fischertechnik/rebrush/industrie-und-hochschulen/technische-dokumente/agile-production-simulation/de/fehlersuche_aps_de.pdf)
 
 ## Content
